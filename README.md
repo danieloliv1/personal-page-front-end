@@ -1,2 +1,2 @@
-# personal-page-front-end
- Página Front-end com HTML, CSS e um pouco de JavaScript
+# Página Front-end
+ Breve apresentação da utilização das tecnologias: HTML, CSS e JavaScript.
